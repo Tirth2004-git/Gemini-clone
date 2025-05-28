@@ -1,4 +1,4 @@
-![Screenshot 2025-05-28 233609](https://github.com/user-attachments/assets/68a6eed5-3fbe-40b3-a99f-8d7550c7358f)# 🌟 Gemini Clone — React + Vite Chatbot
+#🌟 Gemini Clone — React + Vite Chatbot
 
 A simple Gemini AI Chatbot Clone built with **React + Vite**. This project mimics basic functionality of the Gemini chatbot including dark/light theme toggle, message formatting, and real-time interaction using Gemini API.
 
@@ -53,6 +53,13 @@ VITE_API_URL=your_gemini_api_endpoint_here
 
 ### 4. Run the App
  npm run dev
+
+✨ Screenshots
+![Screenshot 2025-05-28 233228](https://github.com/user-attachments/assets/c228f4ac-62a2-4ce3-8571-f99ebd7b040c)
+![Screenshot 2025-05-28 233609](https://github.com/user-attachments/assets/301716ac-4bb5-408b-97b3-bb7aa9e3caaf)
+![Screenshot 2025-05-28 233421](https://github.com/user-attachments/assets/cb0ce53b-79a1-4aa9-a023-076081831984)
+
+
 
 🛠️ Built With
 React.js
