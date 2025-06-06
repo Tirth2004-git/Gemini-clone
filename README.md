@@ -15,9 +15,9 @@ A simple Gemini AI Chatbot Clone built with **React + Vite**. This project mimic
 - ⚛️ **Built with React + Vite**
 
 ---
-
-## 📁 Project Structure
 ---
+## 📁 Project Structure
+```bash
 Gemini-clone/
 ├── public/                    # Static public files (served directly)
 │
