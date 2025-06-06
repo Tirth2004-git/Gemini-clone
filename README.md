@@ -16,24 +16,7 @@ A simple Gemini AI Chatbot Clone built with **React + Vite**. This project mimic
 
 ---
 
-## 📁 Project Structure
-
-Gemini-clone/
-│
-├── public/
-├── src/
-│ ├── assets/ # Static files (images, logos)
-│ ├── ChatBotCompo/ # Main chatbot components (Sidebar, MainContant)
-│ ├── config/ # API configuration
-│ ├── context/ # Context API for global state
-│ ├── App.jsx # Main App component
-│ ├── index.css # Styling
-│ ├── main.jsx # Entry point
-├── .env # Gemini API endpoint
-├── .gitignore
-├── README.md # You're reading it!
-├── package.json
-├── vite.config.js
+<pre lang="markdown"><code>```bash 📁 Gemini-clone/ ├── public/ # Static public files (served directly) │ ├── src/ # Source files │ ├── assets/ # Images, logos, icons etc. │ ├── ChatBotCompo/ # Chatbot related components (Sidebar, MainContent) │ ├── config/ # API keys or base URL configs │ ├── context/ # React Context API for global state │ ├── App.jsx # Main App component │ ├── index.css # Global CSS styling │ └── main.jsx # Entry point (ReactDOM.createRoot) │ ├── .env # Environment variables (e.g., Gemini API key) ├── .gitignore # Files/folders to ignore in Git ├── package.json # Project metadata and dependencies ├── README.md # You're reading it! └── vite.config.js # Vite configuration file ```</code></pre>
 
 ## 🔧 Installation & Setup
 
