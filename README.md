@@ -15,9 +15,28 @@ A simple Gemini AI Chatbot Clone built with **React + Vite**. This project mimic
 - ⚛️ **Built with React + Vite**
 
 ---
+---
+## 📁 Project Structure
 
-<pre lang="markdown"><code>```bash 📁 Gemini-clone/ ├── public/ # Static public files (served directly) │ ├── src/ # Source files │ ├── assets/ # Images, logos, icons etc. │ ├── ChatBotCompo/ # Chatbot related components (Sidebar, MainContent) │ ├── config/ # API keys or base URL configs │ ├── context/ # React Context API for global state │ ├── App.jsx # Main App component │ ├── index.css # Global CSS styling │ └── main.jsx # Entry point (ReactDOM.createRoot) │ ├── .env # Environment variables (e.g., Gemini API key) ├── .gitignore # Files/folders to ignore in Git ├── package.json # Project metadata and dependencies ├── README.md # You're reading it! └── vite.config.js # Vite configuration file ```</code></pre>
-
+📁 Gemini-clone/
+├── public/                    # Static public files (served directly)
+│
+├── src/                       # Source files
+│   ├── assets/               # Images, logos, icons etc.
+│   ├── ChatBotCompo/         # Chatbot related components (Sidebar, MainContent)
+│   ├── config/               # API keys or base URL configs
+│   ├── context/              # React Context API for global state
+│   ├── App.jsx               # Main App component
+│   ├── index.css             # Global CSS styling
+│   └── main.jsx              # Entry point (ReactDOM.createRoot)
+│
+├── .env                      # Environment variables (e.g., Gemini API key)
+├── .gitignore                # Files/folders to ignore in Git
+├── package.json              # Project metadata and dependencies
+├── README.md                 # You're reading it!
+└── vite.config.js            # Vite configuration file
+---
+---
 ## 🔧 Installation & Setup
 
 ### 1. Clone the Repo
@@ -42,7 +61,7 @@ VITE_API_URL=your_gemini_api_endpoint_here
 ![Screenshot 2025-05-28 233609](https://github.com/user-attachments/assets/301716ac-4bb5-408b-97b3-bb7aa9e3caaf)
 ![Screenshot 2025-05-28 233421](https://github.com/user-attachments/assets/cb0ce53b-79a1-4aa9-a023-076081831984)
 
-
+---
 
 🛠️ Built With
 React.js
