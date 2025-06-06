@@ -35,7 +35,7 @@ Gemini-clone/
 ├── package.json              # Project metadata and dependencies
 ├── README.md                 # Project documentation
 └── vite.config.js            # Vite configuration file
-
+```
 ---
 
 ## 🔧 Installation & Setup
